@@ -28,8 +28,8 @@ spring:
   data:
     mongodb:
       host: notification-mongodb
-      username: user
-      password: ${MONGODB_PASSWORD}
+      #username:
+      #password:
       database: piggymetrics
       port: 27017
   mail:

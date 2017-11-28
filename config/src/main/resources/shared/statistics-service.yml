@@ -11,8 +11,8 @@ spring:
   data:
     mongodb:
       host: statistics-mongodb
-      username: user
-      password: ${MONGODB_PASSWORD}
+      #username:
+      #password:
       database: piggymetrics
       port: 27017
 

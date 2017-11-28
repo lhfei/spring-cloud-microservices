@@ -19,4 +19,7 @@
 		<module>notification-service</module>
 	</modules>
 
+	<properties>
+		<spring-boot.version>1.5.8.RELEASE</spring-boot.version>
+	</properties>
 </project>
